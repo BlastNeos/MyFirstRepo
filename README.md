@@ -18,7 +18,8 @@ Sal y pimienta al gusto
 Para la cobertura:
 200 g de queso mozzarella rallado
 Ingredientes al gusto (pepperoni, champiñones, pimientos, aceitunas, etc.)
-Instrucciones:
+
+##Instrucciones:
 Preparar la masa:
 En un bol grande, mezcla la harina y la sal.
 Disuelve la levadura en el agua tibia y deja reposar por unos 5 minutos.
